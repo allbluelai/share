@@ -20,6 +20,7 @@ from threading import Thread
 from queue import Queue
 from wxpy import *
 from EmailAutoSend import *
+# 邮件自动发送的代码https://github.com/allbluelai/AutoEmailSend
 
 class Stock():
     '''
